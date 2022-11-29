@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+}
+
+.prhead{
+    background-color: yellow;
+    height: 70px;
+    width: 100%;
+}
+
+.prbody{
+    background-color: blue;
+    height: 100%;
+    width: 100%;
+}
+
+.prsidel{
+    float: left;
+    background-color: white;
+    height: 500px;
+    width: 10%;
+    margin-top: px;
+}
+
+.prsider{
+    float: right;
+    background-color: violet;
+    height: 500px;
+    width: 90%;
+}
