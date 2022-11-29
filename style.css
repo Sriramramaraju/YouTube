@@ -28,3 +28,38 @@
     height: 500px;
     width: 90%;
 }
+.sr-head-cont{
+    background-color: yellow;
+    height: 70px;
+    width: 100%;
+}
+
+.sr-body-cont{
+    background-color: blue;
+    height: 100%;
+    width: 100%;
+}
+
+.sr-sidel-cont{
+    float: left;
+    background-color: white;
+    height: 500px;
+    width: 10%;
+    margin-top: px;
+}
+
+.sr-sider-cont{
+    float: right;
+    background-color: violet;
+    height: 500px;
+    width: 90%;
+}
+#sr-menu{
+    font-size: 30px;
+    font-weight: 20;
+    margin: 10px;
+}
+.sr-yt-img{
+    height: 5vh;
+    margin-top: 10px;
+}
