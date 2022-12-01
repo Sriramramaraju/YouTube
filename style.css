@@ -3,8 +3,8 @@
 }
 
 .prhead{
-    background-color: yellow;
-    height: 70px;
+    background-color: white;
+    height: 50px;
     width: 100%;
 }
 
@@ -16,18 +16,121 @@
 
 .prsidel{
     float: left;
-    background-color: white;
+    background-color: whit;
     height: 500px;
-    width: 10%;
+    width: 6%;
     margin-top: px;
 }
 
-.prsider{
+.prside2{
     float: right;
     background-color: violet;
     height: 500px;
-    width: 90%;
+    width: 94%;
 }
+
+#menu{
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: rgb(104, 99, 99);
+}
+
+#img1{
+    height: 30px;
+    width: 40px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 8px;
+    border-radius: ;
+}
+
+#search-bar{
+    margin-top: 10px;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+#search{
+    margin-top: 8px;
+    float: left;
+    margin-left: 90px;
+    width: 570px;
+    height: 34px;
+    border-radius: 30px;
+    outline:;
+    border:  1px solid rgb(203, 190, 190);
+}
+
+::placeholder{
+    padding-left: 20px;
+}
+
+#mic{
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 50%;
+
+}
+
+
+
+#video_call{
+    margin-left: 140px;
+    padding-right: 20px ;
+}
+
+
+
+#user-profile{
+    height: 30px;
+    width: 30px;
+    border-radius: 50% ;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+#plo{
+    float: left;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 12px;
+    margin-left: 9px;
+    font-style: normal;
+    size: 10px;
+    font-family: sans-serif;
+    color: #212121;
+    
+}
+
+#sup{
+    font-weight: 10;
+    font-size: small;
+    color: #696262;
+    
+}
+
+#sideh{
+    padding-top: 30px;
+    margin-left: 28px;
+    color: rgb(62, 55, 55);
+    border:;
+}
+
+#siden{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 1;
+}
+
+
+
+
+#Sr:
+
+
 .sr-head-cont{
     background-color: yellow;
     height: 70px;
