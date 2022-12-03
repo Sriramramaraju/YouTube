@@ -24,7 +24,7 @@
 
 .prside2{
     float: right;
-    background-color: violet;
+    background-color:white;
     height: 500px;
     width: 94%;
 }
@@ -125,7 +125,46 @@
     font-weight: 1;
 }
 
+.prshorts{
+    float: left;
+    height: 500px;
+    width: 350px;
+    background-color: black;
+    margin-left: 400px;
+    position: relative;
+}
 
+.prshortsl{
+    float:left;
+    height: 400px;
+    width: 100px;
+    
+    background-color: ;
+}
+
+#sidefg{
+    padding-top: 100px;
+    margin-left: 28px;
+    color: black;
+    border:;
+}
+
+#sidef{
+    padding-top: 30px;
+    margin-left: 28px;
+    color: black;
+    border:;
+    margin-top: 20px;
+}
+
+#pte{
+    position: absolute;
+    top: 90%;
+    width: 500px;
+    color: white;
+    right: ;
+
+}
 
 
 #Sr:
