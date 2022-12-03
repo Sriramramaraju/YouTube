@@ -173,35 +173,132 @@
 .sr-head-cont{
     background-color: yellow;
     height: 70px;
-    width: 100%;
+    width: 100vw;
 }
 
 .sr-body-cont{
     background-color: blue;
     height: 100%;
-    width: 100%;
+    width: 100vw;
 }
 
 .sr-sidel-cont{
     float: left;
-    background-color: white;
+    background-color: whit;
     height: 500px;
-    width: 10%;
+    width: 6%;
     margin-top: px;
 }
 
 .sr-sider-cont{
-    float: right;
-    background-color: violet;
+    float: left;
+    background-color: white;
     height: 500px;
     width: 90%;
 }
 #sr-menu{
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 20;
     margin: 10px;
+    margin-left: 25px;
 }
 .sr-yt-img{
     height: 5vh;
     margin-top: 10px;
 }
+
+#sr-img1{
+    height: 30px;
+    width: 40px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 8px;
+    border-radius: ;
+}
+
+#sr-search-bar{
+    margin-top: 10px;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+#sr-search{
+    margin-top: 8px;
+    float: left;
+    margin-left: 90px;
+    width: 570px;
+    height: 34px;
+    border-radius: 30px;
+    outline:;
+    border:  1px solid rgb(203, 190, 190);
+}
+
+::placeholder{
+    padding-left: 20px;
+}
+
+#sr-mic{
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 50%;
+
+}
+
+
+
+#sr-video_call{
+    margin-left: 140px;
+    padding-right: 20px ;
+    margin-top: 10px;
+}
+
+
+
+#sr-user-profile{
+    height: 30px;
+    width: 30px;
+    border-radius: 50% ;
+    margin-left: 20px;
+    margin-top: 7px;
+
+}
+
+#sr-notifications{
+    margin-top: 10px;
+}
+
+#sr-plo{
+    float: left;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 12px;
+    margin-left: 5px;
+    font-style: normal;
+    size: 10px;
+    font-family: sans-serif;
+    color: #212121;
+    
+}
+
+#sr-sup{
+    font-weight: 10;
+    font-size: small;
+    color: #696262;
+    
+}
+#sr-sideh{
+    padding-top: 30px;
+    margin-left: 28px;
+    color: rgb(62, 55, 55);
+    border:;
+}
+
+#sr-siden{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 1;
+    margin-left: 0px;
+}
+
