@@ -174,6 +174,7 @@
     background-color: yellow;
     height: 70px;
     width: 100vw;
+    padding-top: 10px;
 }
 
 .sr-body-cont{
@@ -184,7 +185,7 @@
 
 .sr-sidel-cont{
     float: left;
-    background-color: whit;
+    background-color: white;
     height: 500px;
     width: 6%;
     margin-top: px;
@@ -205,6 +206,7 @@
 .sr-yt-img{
     height: 5vh;
     margin-top: 10px;
+    margin-left: 50px;
 }
 
 #sr-img1{
@@ -217,7 +219,7 @@
 }
 
 #sr-search-bar{
-    margin-top: 10px;
+    margin-top: 13px;
     float: left;
     margin-left: 10px;
     
@@ -240,7 +242,7 @@
 
 #sr-mic{
     float: left;
-    margin-top: 10px;
+    margin-top: 13px;
     margin-left: 20px;
     border-radius: 50%;
 
@@ -288,17 +290,16 @@
     color: #696262;
     
 }
-#sr-sideh{
+#sideh{
     padding-top: 30px;
     margin-left: 28px;
     color: rgb(62, 55, 55);
     border:;
 }
 
-#sr-siden{
+#siden{
     text-align: center;
     font-size: 12px;
     font-weight: 1;
     margin-left: 0px;
 }
-
