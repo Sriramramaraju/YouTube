@@ -303,3 +303,48 @@
     font-weight: 1;
     margin-left: 0px;
 }
+.sr-row1{
+    display: flex;
+    margin-top: 20px;
+}
+.sr-1{
+    margin: 20px;
+    width:  ;
+}
+.sr-pic1{
+    height: 150px;
+    width: 260px;
+    border-radius: 10px;
+}
+.sr-caption{
+    padding-top: 10px;
+    font-size: 15px;
+}
+.sr-cap-logo{
+    height: 40px;
+    width: 40px;
+    border-radius: 75%;
+}
+.sr-caption2{
+    color: #696262;
+    font-size: 12px;
+    font-weight: lighter;
+    margin-left: 40px;
+}
+.live-cont{
+    height:16px ;
+    width: 50px;
+    background-color: red;
+    margin-left: 40px;
+}
+.live-logo{
+    height: 18px;
+    width: 14px;
+    color: white;
+    padding-left: 5px;
+}
+.live-para{
+    padding-left: 3px;
+    font-size: 12px;
+    color: white;
+}
